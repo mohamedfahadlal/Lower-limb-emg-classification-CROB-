@@ -39,9 +39,11 @@ The project includes a simulated state machine controller demonstrating how the 
 emg-lower-limb-classification/
 │
 ├── dataset/                   # Contains the Mendeley dataset 
-├── notebooks/              
+├── notebooks/                 # main task
 │   └── EMG_Classification.ipynb 
-|
+├──bonus task/                  # bonus task
+|    ├──Exoskeleton_System.py
+|    └──bonus task.pdf
 ├── .gitignore              
 ├── requirements.txt        
 └── README.md               # Project documentation
