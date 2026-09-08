@@ -39,9 +39,9 @@ The project includes a simulated state machine controller demonstrating how the 
 emg-lower-limb-classification/
 │
 ├── dataset/                   # Contains the Mendeley dataset 
-├── notebooks/              # Core workspace[cite: 1]
-│   └── EMG_Classification.ipynb [cite: 1]
+├── notebooks/              
+│   └── EMG_Classification.ipynb 
 |
-├── .gitignore              # Ignores large data files and system files[cite: 1]
-├── requirements.txt        # List of dependencies[cite: 1]
-└── README.md               # Project documentation[cite: 1]
+├── .gitignore              
+├── requirements.txt        
+└── README.md               # Project documentation
